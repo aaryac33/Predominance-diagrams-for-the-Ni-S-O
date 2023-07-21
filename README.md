@@ -67,7 +67,7 @@ K4= exp(-delG4/(R*T))
 
 K4= 1/(pO2)^2
 log K4= -2log(pO2)
-We also see that it’s independent of pSO2, hence a vertical line in the Ni S O system.
+We also see it’s independent of pSO2, hence a vertical line in the Ni S O system.
 
 For the line DH, NiSO4 and NiO are in equilibrium
 2NiO(c) + 2SO2(g) = NiSO4(c) + O2(g)
